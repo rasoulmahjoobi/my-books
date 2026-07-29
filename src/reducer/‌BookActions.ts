@@ -1,0 +1,9 @@
+export const BookActions = {
+  FETCH_LOAD: "FETCH_LOAD",
+  FETCH_ERROR: "FETCH_ERROR",
+
+  GET_BOOK: "GET_BOOK",
+  ADD_BOOK: "ADD_BOOK",
+  DELETE_BOOK: "DELETE_BOOK",
+  UPDATE_BOOK: "UPDATE_BOOK",
+} as const;

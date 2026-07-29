@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": 4.2,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg"
+    },
+    {
+      "id": "2",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": 4.9,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+    },
+    {
+      "id": "3",
+      "bookName": "1984",
+      "author": "George Orwell",
+      "rating": 4.8,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg"
+    },
+    {
+      "id": "4",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "rating": 4.7,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81Scutrtj4L.jpg"
+    },
+    {
+      "id": "5",
+      "bookName": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "rating": 4.8,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
+    },
+    {
+      "id": "6",
+      "bookName": "The Catcher in the Rye",
+      "author": "J. D. Salinger",
+      "rating": 4,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71KilybDOoL.jpg"
+    },
+    {
+      "id": "7",
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "rating": 4.6,
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
